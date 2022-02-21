@@ -1,18 +1,14 @@
 caption {
-    background-color: #95cfd3;
-    font-size: 50px;
-    font-weight: 800;
+  background-color: #95cfd3;
+  font-size: 50px;
+  font-weight: 800;
 }
 table {
-    background-color: #687a8b;
+  background-color: #687a8b;
 }
 
-colgroup {
-    color: aquamarine;
-}
-
-thead{
-    font-family: Arial;
-    font-size: 18px;
-    color: rgb(221, 216, 216);
+thead {
+  font-family: Arial;
+  font-size: 18px;
+  color: rgb(221, 216, 216);
 }
