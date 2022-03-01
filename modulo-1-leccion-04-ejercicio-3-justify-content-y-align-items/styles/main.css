@@ -1,0 +1,23 @@
+.menu{
+    background-color: aquamarine;
+    height: 100px;
+    display: flex ;
+    border: solid; 1px;
+    justify-content: space-around;
+    
+}
+
+.menu-items {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    margin-left: 20px;
+    list-style: none;
+    margin-right: 20px;
+   
+}
+
+.menu-items li {
+    border-radius: 3px;
+    margin: 5px;
+}
